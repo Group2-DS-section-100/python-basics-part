@@ -1,1 +1,1 @@
-# python-basics-partS
+# python-basics-parts
